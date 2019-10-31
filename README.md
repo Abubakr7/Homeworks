@@ -1,6 +1,8 @@
 # Homeworks
 
-(https://dummyimage.com/640x480/fafa20/000000.jpg&text=Front-end+Developer)
+![dev][logo] 
+
+[logo]: https://dummyimage.com/640x480/fafa20/000000.jpg&text=Front-end+Developer
 
 ## All my Homework. 
 
