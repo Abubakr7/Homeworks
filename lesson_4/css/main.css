@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+header {
+    width: 1600px;
+    background: url(../img/bg.jpg) no-repeat center top / cover;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav {
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-link {
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menu {
+    width: 540px;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-top: 10px;
+}
+
+.header_title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 264px;
+    margin-bottom: 210px;
+}
+
+.header_title div {
+    margin-bottom: 50px;
+}
+
+.header_caption {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header_caption h1,
+h2 {
+    font-weight: 400;
+    text-align: center;
+}
+
+.header_caption h2 {
+    font-size: 28px;
+}
+
+.header_caption h1 {
+    font-size: 48px;
+    text-transform: uppercase;
+}
+
+.getstarted_btn {
+    padding: 18px 34px;
+    border: 2px solid #ffffff;
+    border-radius: 2px;
+}
+
+.getstarted_btn a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    text-transform: uppercase;
+}
+
+
+/* 
+.getstarted_btn:hover {
+    background: #fff;
+    border: none;
+    color: #000;
+} */

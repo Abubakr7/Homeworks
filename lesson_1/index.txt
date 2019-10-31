@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Home Work</title>
+</head>
+
+<body>
+    <table border="1">
+        <tbody>
+            <tr>
+                <td>№</td>
+                <td>Ф.И.О</td>
+                <td>Возраст</td>
+                <td>Место обучение</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Раджабов Азамат</td>
+                <td>20</td>
+                <td>ФМГУ</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Гадоев Фирдавс</td>
+                <td>20</td>
+                <td>ТУТ</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Рахимов Сипехр</td>
+                <td>20</td>
+                <td>ТУТ</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Одинаев Сабохиддин</td>
+                <td>22</td>
+                <td>ТУТ</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Галимзянова Алия</td>
+                <td>19</td>
+                <td>Финансово-экономический университет</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Вохидова Лайли</td>
+                <td>19</td>
+                <td>РТСУ</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Хайдаров Олим</td>
+                <td>21</td>
+                <td>ФМГУ</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Одинаев Махмудджон</td>
+                <td>19</td>
+                <td>НИТУ МИСиС</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Джураев Абубакр</td>
+                <td>21</td>
+                <td>ТУТ</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <svg height="100" width="100">
+        <circle cx="50" cy="50" r="40" stroke="black" fill="#fff" stroke-width="2" />
+    </svg>
+    <br>
+
+    <img src="Desert.jpg" alt="Дорога" height="480" width="640">
+</body>
+
+</html>
