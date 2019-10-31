@@ -6,16 +6,16 @@
 ### Lesson_1 
 ####  1. Table 
 ####  2.Image > size >640x480 
-####  3.Svg 
+####  3.Svg circle 
 
 ### Lesson_2
-  1.Form
+####  1.Form
   
 ### Lesson_3 
-  1. Navbar
+####  1. Navbar
   
 ### Lesson_4
-  1. Landing Page
+####  1. Landing Page
   
 ### Lesson_5
   
