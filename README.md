@@ -4,9 +4,9 @@
 
 
 ### Lesson_1 
-1. Table
-2.Image > size >640x480
-3.Svg circle
+  1. Table list-item
+  2.Image > size >640x480 item
+  3.Svg circle item
 
 ### Lesson_2
   1.Form
